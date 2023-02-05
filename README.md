@@ -1,6 +1,7 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+## Rust Mini Project #3: Get time of different timezones
 
-## References
+You can get current time in Estern (EST), Pacific (PST), Korea-Seoul (KST), England-London (GMT).  
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+### Usage
+
+1. cargo run -- time
